@@ -149,7 +149,7 @@ hr {
 }
 
 a {
-    color: #7D3B73;  
+    color: #d3f3ef;  
     text-decoration: none;
     /*font-weight: normal;*/
 }
@@ -193,8 +193,8 @@ table ol {
   
 .nav {
     width: 100%;
-    background-color: #7d3b73; 
-    border-color: #7d3b73;
+    background-color: #d3f3ef; 
+    border-color: #d3f3ef;
     color: #222222;
     margin-top: -13px;
     margin-left: -8px;
